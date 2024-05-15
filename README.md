@@ -2,6 +2,7 @@
 ![image](https://github.com/Ajay-Dobliyal/Flipkar-E-Commerce/assets/91046133/2230ab32-b8df-4c79-ba84-fb144cfbb2da)
 
 An unsupervised learning model to segment customers using the RFM (Recency, Frequency, and Monetary value) approach.
+
 ![image](https://github.com/Ajay-Dobliyal/Flipkar-E-Commerce/assets/91046133/1cbe516e-651e-4fd3-8a04-f4128f2b0143)
 
 Classify customers into one of four categories based on their RFM scores — 
@@ -9,6 +10,7 @@ Classify customers into one of four categories based on their RFM scores —
 2) Gold
 3) Silver
 4) Bronze
+   
 ![image](https://github.com/Ajay-Dobliyal/Flipkar-E-Commerce/assets/91046133/abe04ec6-cf36-4fdf-8ac7-73b567c1a6a3)
 
 **Feautures:**
@@ -25,5 +27,5 @@ Classify customers into one of four categories based on their RFM scores —
 11) Reason of return
 12) Sold as set
 
-
+**Model: k-means clustering**
    
